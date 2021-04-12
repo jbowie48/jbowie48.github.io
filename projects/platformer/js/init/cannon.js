@@ -30,8 +30,8 @@
         createCannon("top", 450);
         createCannon("bottom", 450);
         createCannon("left", 300);
-        createCannon("left", 150);
-        
+        createCannon("right", 150);
+
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
